@@ -8,14 +8,23 @@ h1 {
 }
 
 #input_div {
+    display: inline-block;
 }
+
+#input_div_container {
+    text-align: center;
+}
+
+.input_div_small {
+    text-align: left;
+}
+
 
 #input_button {
     text-align: center;
 }
 
 .input_div_small {
-    width: 70%;
     margin: auto;
     max-width: 20em;
     padding: 2px;

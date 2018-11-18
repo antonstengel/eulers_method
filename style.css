@@ -32,6 +32,8 @@ h1 {
 
 .input_text {
     display: inline;
+    border: 0;
+    border: transparent;
 }
 
 input {
@@ -49,4 +51,24 @@ input {
 }
 
 #input_button {
+}
+
+
+button{
+    margin-top: 10px;
+    background: white;
+    color:lightblue;
+    border-radius: 10px;
+    font-size:1em;
+    padding-top: .4em;
+    padding-bottom: .4em;
+    padding-right: .6em;
+    padding-left: .6em;
+    cursor:pointer;
+    transition:500ms ease all;
+    outline:none;
+}
+button:hover{
+      background: lightgray;
+      color: white;
 }

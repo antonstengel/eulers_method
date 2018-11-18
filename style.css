@@ -10,16 +10,14 @@ h1 {
 
 #input_div {
     display: inline-block;
-    background-color: blue;
 }
 
 #input_div_container {
     text-align: center;
-    background-color: yellow;
 }
 
 .input_div_small {
-    background-color: red;
+    padding: 0px;
     text-align: left;
     margin-bottom: 10px;
 }

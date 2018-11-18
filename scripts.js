@@ -1,6 +1,4 @@
-document.getElementById("input_button").addEventListener("click", function(){
-    document.getElementById("test_text").innerHTML = "button was registered";
-    
+document.getElementById("input_button").addEventListener("click", function(){  
     var equation = document.getElementById("function_textfield").value;
     var equationLowercase = equation.toLowerCase();
     var xInit = Number(document.getElementById("xInit_textfield").value);

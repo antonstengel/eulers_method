@@ -10,14 +10,18 @@ h1 {
 
 #input_div {
     display: inline-block;
+    background-color: blue;
 }
 
 #input_div_container {
     text-align: center;
+    background-color: yellow;
 }
 
 .input_div_small {
+    background-color: red;
     text-align: left;
+    margin-bottom: 10px;
 }
 
 
@@ -25,12 +29,7 @@ h1 {
     text-align: center;
 }
 
-.input_div_small {
-    margin: auto;
-    max-width: 20em;
-    padding: 2px;
-    height: auto;
-}
+
 
 .input_text {
     display: inline;

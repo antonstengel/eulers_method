@@ -1,4 +1,4 @@
-document.getElementById("input_button").addEventListener("click", function(){
+document.getElementById("input_button").addEventListener("click touchstart", function(){
     var equation = document.getElementById("function_textfield").value;
     var xInit = Number(document.getElementById("xInit_textfield").value);
     var yInit = Number(document.getElementById("yInit_textfield").value);

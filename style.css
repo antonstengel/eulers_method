@@ -1,6 +1,6 @@
 html {
     font-family: 'Roboto', sans-serif;
-    background-color: lightblue;
+    background-color: skyblue;
     color: white;
 }
 
@@ -57,7 +57,7 @@ input {
 button{
     margin-top: 10px;
     background: white;
-    color:lightblue;
+    color:skyblue;
     border-radius: 10px;
     font-size:1em;
     padding-top: .4em;
@@ -75,5 +75,5 @@ button:hover{
 
 button:after{
     background: white;
-    color: lightblue;
+    color: skyblue;
 }

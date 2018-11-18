@@ -1,0 +1,44 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+}
+
+#input_div {
+}
+
+#input_button {
+    text-align: center;
+}
+
+.input_div_small {
+    width: 70%;
+    margin: auto;
+    max-width: 20em;
+    padding: 2px;
+    height: auto;
+}
+
+.input_text {
+    display: inline;
+}
+
+input {
+    float:right;
+}
+
+#input_button_div {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#output_text {
+    text-align: center;
+    font-size: 2em;
+}
+
+#input_button {
+}
